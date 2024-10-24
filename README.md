@@ -44,3 +44,21 @@ graph LR;
     C-->D[OPERATE];
     C-->A;
 ```
+## FLOWCHART 
+
+ ```mermaid
+  graph TD;
+      A[vscode]-->B{Commit changes};
+      B-->|Yes| C[Command Prompt];
+     C-->D{Trigger Build};
+     D-->|Yes| E[Run 3 repos];
+    E--> F[Build];
+  F-->|Yes| G[Window pops up];
+G--> H{Notify};
+  H-->|Yes| I[CodeQL];
+I-->|If no errors| J[Passed];
+I-->|Errors detected| K[Display bugs and erros];
+J-->L[aws];
+L-->|Yes| M[Output displayed];
+K--> A;
+```
