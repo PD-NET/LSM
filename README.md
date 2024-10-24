@@ -9,12 +9,18 @@
 
 ## INTRODUCTION TO THE PROJECT
 
-The PG dissertation is a partial requirement for fulfilling the PG degree. Major steps include:
-
-- Selection of topics based on departmental thrust ideas.
-- Maintaining student-guide ratios.
-- Avoiding duplication and addressing ethical issues.
-
+ PG dissertation is the partial requirement for the fulfillment of Pg degree. During 1st year of post graduation, student select PG dissertation topic and carry out research under supervision of PG guide and     submit dissertation during final year of evaluation. The following are the major steps of the dissertation: Selection of topics: 
+  1. As per the thrust ideas of research of a particular department.
+  2. Maintaining student guide ratio.
+  3. To avoid duplication. Approvals and ethical issues.
+  4. Monitoring research progress.
+  5. Evaluation of dissertation.
+  6. Publication if any, out of dissertation research.
+  7. Maintenance of database of all dissertations under various categories with search option.
+  8. With holding of university final year results in case of disapproval of PG dissertation.
+  9. Managing and monitoring all the above aspects throughout the country maybe a herculean task.
+  10. An application to ease the process and improve the quality of research is essential.
+      
 ## CI/CD
 ### CONTINUOUS INTEGRATION
 ```mermaid
