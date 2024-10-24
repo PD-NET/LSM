@@ -35,13 +35,12 @@ graph LR;
     B-->C[BUILD];
     C-->D[TEST];
     D-->B;
-
-### CONTINUOUS DEPLOYMENT
-  ```mermaid
+```
+## CONTINUOUS DEPLOYMENT
+```mermaid
 graph LR;
     A[TEST]-->B[RELEASE];
     B-->C[DEPLOY];
     C-->D[OPERATE];
     C-->A;
 ```
-
