@@ -20,6 +20,8 @@
   8. With holding of university final year results in case of disapproval of PG dissertation.
   9. Managing and monitoring all the above aspects throughout the country maybe a herculean task.
   10. An application to ease the process and improve the quality of research is essential.
+
+## APPROACH:      
       
 ## CI/CD
 ### CONTINUOUS INTEGRATION
